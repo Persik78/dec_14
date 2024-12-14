@@ -1,4 +1,5 @@
 a = 1234
 b = 1234
 print(a is b)
-for in  jopich
+while a != c
+    daf
